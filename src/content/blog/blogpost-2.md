@@ -1,47 +1,42 @@
 ---
-title: Blogpost 2
-pubDate: 12/31/2022 12:05
-author: "Elian Van Cutsem"
+title: MLfrom Scratch
+pubDate: 10/27/2019 14:25
+author: "Kevin Coyle"
 tags:
-  - Astro
-  - WebDev
-  - Programming
-imgUrl: '../../assets/astro.jpeg'
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+  - Life Updates
+  - Meta Blog Post 
+  - Machine Learning
+  - Python
+imgUrl: '../../assets/mlscratch.webp'
+description: Prologue to a series of posts on machine learning from scratch. In here, I'll discuss the pedagogical approach I'm taking to teaching machine learning. This is meant to be a series that would be useful for someone who has a basic understanding of machine learning and wants to learn more about the inner workings of the models.
 layout: '../../layouts/BlogPost.astro'
 ---
 
-## Deorum petiit ignis
+One of my favorite things about teaching is that I get to work with a group of people who are all at different levels of their learning journey. Because the field is still so young, this means that most of the courses I teach are at a fairly basic level from either a software engineering or from a mathy/data science perspective.
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+Because of a bootcamp, I have a career, I have a side-hustle in teaching, and I have a group of [top-notch friends.](https://open.spotify.com/track/3sp3wHVuQ3CRtsZykHDtKq?si=gViW4zKfTvmFKN3jRUHBlQ)
+But I also have been thinking about pedagogy.
 
-## Iovis late orbem Perseus sunt
+There are drawbacks to the system, and one of the drawbacks is that given the short amount of time together, we take a path of going wide, rather than deep.
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
+|Pros|Cons|
+|---|---|
+|Students learn concepts that would have taken years to uncover, in a short span| The onus is then on students to go deep, and many won't|
+|By learning more difficult concepts, students pick up the less mentally challenging by osmosis| Presenting Material across [Several Learning Styles](https://www.learndash.com/7-major-learning-styles-which-one-is-you/) is non-trivial.|
 
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
 
-## Longum minus sic saepe
+I'm going to work through a series of posts describing at a deeper level, number of machine learning models.
 
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
+I'll start with Linear Regression, then progress into Decision Trees, then into KNN, then Logistic Regression, Random Forests, and finally, get into Multinomial Naive Bayes.
 
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
+This post will be edited, so that it serves as a sort of table of contents.
 
-## Geminas namque quod referitur argenteus aderat superstes
+Check back soon!
 
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
+- Linear Regression
+- Decision Trees
+- KNN
+- Logistic Regression
+- Random Forests
+- Multinomial Naive Bayes
 
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.

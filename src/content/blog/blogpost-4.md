@@ -1,47 +1,31 @@
 ---
-title: Blogpost 4
-author: Elian Van Cutsem
-pubDate: 2023-02-15 12:00
+title: Learning React
+author: Kevin Coyle
+pubDate: 2020-08-10 12:00
 tags:
-  - Astro
+  - React
   - JavaScript
   - Web Development
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
-imgUrl: '../../assets/astro.jpeg'
+description: Let's go full stack. I have always wanted to venture beyond just data science and machine learning. I've always wanted to be able to build things. 
+imgUrl: "../../assets/twitterjs.png"
 layout: "../../layouts/BlogPost.astro"
 ---
 
-## Deorum petiit ignis
+# Learn You a JavaScript
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+![Learn You a JavaScript](../../assets/twitterjs.png)
 
-## Iovis late orbem Perseus sunt
+## Motivations
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
+I've decided to learn React. I first need to learn JavaScript. I've heard mixing the sequence of these two can be a bit of a challenge.
+Like learning to ride a bike downhill on a mountain.
 
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
+So I'm taking a zero-to-hero day class in JavaScript and then in September, I'm going to take a 10 week class in React.
 
-## Longum minus sic saepe
+Since I teach at General Assembly, I have a benefit of being able to take these classes for free. I also have the benefit of being able to
+really embody the spirit of beginner's mind.
 
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
+Also, it's pretty boring here in the pandemic. Let's keep interacting with new people. 
 
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
-
-## Geminas namque quod referitur argenteus aderat superstes
-
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
-
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.
+I am pretty aware that most bootcamps involve a final project. I'm not sure what I'll do yet, but I think it would be cool to build something 
+that involves film and predictive analytics, like the stuff I was doing at Warner Brothers.
