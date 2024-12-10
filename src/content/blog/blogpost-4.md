@@ -5,7 +5,7 @@ pubDate: 2020-08-10 12:00
 tags:
   - React
   - JavaScript
-  - Web Development
+  - Full Stack Development
 description: Let's go full stack. I have always wanted to venture beyond just data science and machine learning. I've always wanted to be able to build things. 
 imgUrl: "../../assets/twitterjs.png"
 layout: "../../layouts/BlogPost.astro"

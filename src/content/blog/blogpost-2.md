@@ -7,6 +7,7 @@ tags:
   - Meta Blog Post 
   - Machine Learning
   - Python
+  - Data Field
 imgUrl: '../../assets/mlscratch.webp'
 description: Prologue to a series of posts on machine learning from scratch. In here, I'll discuss the pedagogical approach I'm taking to teaching machine learning. This is meant to be a series that would be useful for someone who has a basic understanding of machine learning and wants to learn more about the inner workings of the models.
 layout: '../../layouts/BlogPost.astro'

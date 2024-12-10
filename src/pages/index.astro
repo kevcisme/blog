@@ -6,21 +6,16 @@ import { Pill } from '@eliancodes/brutal-ui';
 import { Button } from '@eliancodes/brutal-ui';
 import { Card } from '@eliancodes/brutal-ui';
 
+const BASE_TAG_URL = 'https://blog.kevincoyle.xyz/blog/tags/';
 const builtWith = [
-  { name: 'Machine Learning', url: 'https://kevincoyle.xyz' },
-  { name: 'Basketball', url: 'https://nba.com' },
-  { name: 'Music', url: 'https://vercel.com' },
-  {
-    name: 'Sports Analytics',
-    url: 'https://docs.astro.build/en/guides/content-collections/',
-  },
-  { name: 'The Data Field', url: 'https://docs.astro.build/en/guides/rss/' },
-  {
-    name: 'Family',
-    url: 'https://docs.astro.build/en/guides/integrations-guide/sitemap/',
-  },
-  { name: 'SaaS', url: 'https://vercel.com' },
-  { name: 'Full-Stack Development', url: 'https://www.typescriptlang.org/' },
+  { name: 'Machine Learning', url: `${BASE_TAG_URL}machine%20learning` },
+  { name: 'Basketball', url: `${BASE_TAG_URL}basketball` },
+  { name: 'Music', url: `${BASE_TAG_URL}music` },
+  { name: 'Sports Analytics', url: `${BASE_TAG_URL}sports%20analytics` },
+  { name: 'The Data Field', url: `${BASE_TAG_URL}data%20field` },
+  { name: 'Family', url: `${BASE_TAG_URL}family` },
+  { name: 'SaaS', url: `${BASE_TAG_URL}saas` },
+  { name: 'Full-Stack Development', url: `${BASE_TAG_URL}full%20stack%20development` },
 ];
 ---
 
@@ -40,7 +35,7 @@ const builtWith = [
               A blog for <a
                 class='text-white'
                 target='_blank'
-                href='https://astro.build/'>Kevin</a
+                href='https://kevincoyle.xyz'>Kevin</a
               >
             </p>
             <p class='mt-2 outfit text-xl md:text-3xl lg:text-5xl'>
