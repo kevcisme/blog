@@ -1,5 +1,5 @@
 ---
-title: Fantasy Football Analytics Prologue
+title: Fantasy Football Analytics
 author: Kevin Coyle
 pubDate: 2021-08-19 18:37
 tags:

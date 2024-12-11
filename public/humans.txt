@@ -1,6 +1,6 @@
 ## Brutal Theme ##
 
-All development & Content by Elian Van Cutsem
+Theme and main template by Elian. Content by Kevin.
 
-- email: hello@elian.codes
-- website: www.elian.codes
+- email: info@primarykey.solutions
+- website: www.kevincoyle.xyz
