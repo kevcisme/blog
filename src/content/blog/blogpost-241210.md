@@ -1,66 +1,56 @@
 ---
-title: Working on a new app, palehuna
-description: My attempt to do something useful with math and academic papers for the general public. 
-pubDate: 2024-12-10 20:50
+title: Year of Build
+description: Cataloging a year of building stuff. 
+pubDate: 2024-12-28 21:41
 author: Kevin Coyle
 tags:
   - React
   - JavaScript
   - Full Stack Development
   - AI
-imgUrl: '../../assets/palehunalogo.jpeg'
+imgUrl: '../../assets/yearofbuild2024.webp'
 layout: ../../layouts/BlogPost.astro
 ---
 
-# Building a Mobile App for Parents to Opt Out of AI Training Data
-## Abstract
+## The Year of Build
+_Ship Fast, Ship Often_ ⛵️
+I know that this was a different year for me, development wise. I feel like I scrambled in at least 6 different directions, but it all seems to have made sense. I also feel like I made a lot of progress on all fronts.
 
-It's not really a secret that AI is everywhere. It's also not totally apparent to everyone how these models come to be. 
-Some groups like artists are keenly aware of what training data is, because they eventually learn that their work is the 
-oil that powers AI engines. To that end, there has been little done for those who would like to opt out of their content being used for training.
+I started the year in San Francisco, pitching to a group of investors about a SaaS app I had been working on. We thought at the time that our main product was a tool for helping employees train and learn as they onboard as new hires. That platform, Chelle, is stil moving and has been a source of a lot of learning about sales and what it means to get people to pay for your product. 
+
+That was followed by a thought: if we can't get investors to pay for our development time, what if I became the investor? I really believe in Chelle, but also, I think we're way out in front of the market. It might be a little while before anyone sees the value in having a second brain that can help you learn and grow. So if I was to become the investor, how could I create funds? 
+
+I decided on year of shipping products. I'd learn "go to market" and if one of them took off, I could fund me and my team to build Chelle. 
+
+- My first idea was Pale Huna, a tool to shield people's content from AI. I am about to launch this in the app store. 
+- Then I worked on Menstrcycle, a tool to help men track their wive's menstrual cycles. This would also be an educational experience - I'd explain how the phase of a cycle release different hormones and how that affects the body. I am getting mixed reviews on this one, I have it on the backburner for now. 
+- I also worked on Legends Pools, a tool to help people create pools for sports games, like The Masters. I want to launch this with a March Madness pool in 2025 to my co-workers. 
+- I built a Shopify site and Instagram for a Pickleball ecommerce company that was my brother's idea, called "Big Dill Energy."
+- I built Ready Golf with probably the best human I know, and an even better friend. Ready Golf is a certification program for golfers to help them understand etiquette and rules of the game. 
+- Then I built Sileninja. This is a mobile app for people who think that their phone is listening to them and want to prevent that. I plan on launching this in the app store in the later half of Q1 2025. 
+- Then I built a "link in bio" site. I used a previous domain that I owned - nPassim. This is a mini-website generator for people who want to create a little bio site, but don't have any coding skills, nor do they want to pay for hosting. I think I'm going to market this as a tool for people who are in the dating market. Once I figure out the marketing angle, I'll launch with a new URL and branding. This is live.
+- In September, there was a hackathon in Hawaii for Honolulu Tech Week. I built a semantic search engine for memes. I didn't take it any further, but I think it would be cool if it existed as an iPhone Message extension, like the gif app. 
+- Finally, I built interviewgineer.com, a B2B site for companies who want to interview data scientists, data analysts, and data engineers. I created quizzes and technical challenges for interviewees, and made it really easy for the company to deploy the quiz. 
+- I'm closing out the year with a start as a fractional CTO (or maybe Chief Data Officer? I'm not totally sure about title here). This will be my first foray into that world, and I've already started cold emailing other companies to see if they'd like to work with me. 
+
+Some things that I worked on but aren't companies include:
+- Writing curriculum for a few Caltech CTME courses
+- Building a generative AI powered data dashboard 
+- Building a RAG based chatbot for a major lodging and hospitality company (a hotel chain)
+- An agricultural application
 
 
-## Introduction and Motivation
-I think I'm sort of split on this. For one, I have enjoyed career success in ML for the better part of a decade and I'm very grateful to have 
-worked with some fantastic datasets. Also, I am split on which content of mine is used for AI training datasets. I don't mind if my LinkedIn profile and posts power some LLM that LinkedIn is creating, but I'd rather not have pictures of my kids as training data. 
+Some things I wanted to build but didn't have the time:
+- Python courses for beginners, deployable on jupyterhub
+- A Shopify dashboard with ML models
+- A raw petfood company
+- A tool to "catch" Santa Claus on video 🎅🏼
+- An event site like welikela.com
+- A daily text news service that sends 5 short sentences about the news of the day. 
+- A price tracking application for Solana meme coins. 
+- Proudly
+- Loose Shakas, a lifestyle brand that does 1 for 1. 
 
-I was surprised to learn that there is little out there in either academia or in industry that is useful for blocking this. Websites have a robot.txt, but what about my images? What about some content on my twitter? I don't know there. I think it would be useful to have the ability to choose to not add my content. 
+I have discovered that I love to create products. Of all the cycles in development, figuring out what a product is and who the main users are is a lot of fun for me. Next year I think I'll continue to build, but at a slower pace, and I plan to focus on how to market brand new products. Getting from 0 to 1 users will be a new learning curve for me. 
 
-I also know that there are large segments of people like parents who would rather err on the side of caution when it comes to their kids. 
-I totally understand that and I think it's a good thing. So I think I can help other parents. But I want to check if they care or if this is just something that nerds like me care about and think about. 
-
-## Market Validation
-Luckily, I know a solid number of parents. I did some pretty informal polling - first asking friends on social media if they were aware of how training data gets assembled, then asking if they would be interested in a tool that prevents their content from becoming training data. 
-A super majority of people in polls said they would be interested so that was enough for me to consider this a solid side project. I might have unintentionally biased results by creating three affirmative answers and 1 rejection answer, but that will have to be something I look at in hindsight. ![poll](../../assets/poll.jpeg)
-
-It should also be noted that the N of people who responded to this was way higher than a typical post for me personally. I had clearly struck something that intrigued people. 
-
-So I set out to build just this app. 
-
-While thanking everyone for participating in the poll, I also mentioned that I was going to build this app in public, i.e. I would do posts like the one you are reading right now. However, I know that my audience has technical and non-technical people, so I quickly realized that I would have to make this also a little bit of a catch up in "how does AI exactly become?" 
-## Education and Marketing
-It struck me that just as many people immediately said that they would be interested, but that they wanted to hear more. I took this in one of two ways. 
-1. They are interested, but they are unsure of any reason why this is solving a problem (i.e. "I think you know that I have a problem, but I'm unaware, tell me more").
-2. They are interested but more from a personal relationship with me and what I'm up to (i.e. "sure, what are you doing these days, telll me more").
-
-I might be biased but I think it's more of the first one, so I did my first little post on how AI models are created. 
-![ai-models](../../assets/image-ml-pipeline-4.png)
-In a series of 3 posts, I did am 80,000 foot overview explanation of ETL and how a pipeline eventually becomes a model. 
-
-Then I did a post on how I think we would be able to interrupt that process. 
-
-Going back to my initial motivation, I'm stil prety split. I think that my friends and I are fine with a lot of our content being used for training, but I'm not sure that I want my kids to be used for training. I do emphatically think though that the problem is not anything with any tech company. It's just a problem of optionality.
-
-So I think with all these educational posts and marketing, I really want to strike a balance of "look, AI is an awesome tool" and "but this nuanced part of it needs to be considered." I also definitely don't want to point fingers at tech companies for any sort of bad faith or anything.   
-
-## Building
-Ironically, since I'm pretty bad at mobile app development (read: absolute newb), I'm going to rely on AI to build this app. 😂
-So far I have the initial setup of the app and my initial algorithms for shielding the user's content. 
-
-I created a little logo, which is the header of this. 
-
-Finally, I decided to go with a Hawaiian name for the app. I chose pale huna off a Google translate: "hidden shield" which felt appropriate for the main output of the app, which is a sort of hidden pane of glass or an invisible shield to the human eye, but very visible to the AI. I chose the Hawaiian words because the word nexus around pale and huna also encompassed a lot of concepts that the app deals with. [Pale](https://wehewehe.org/gsdl2.85/cgi-bin/hdict?e=d-11000-00---off-0hdict--00-1----0-10-0---0---0direct-10-ED--4-------0-1lpm--11-haw-Zz-1---Zz-1-home---00-3-1-00-0--4----0-0-11-00-0utfZz-8-00&d=D16809&l=en) is also "protection," "ward off," and "to deliver, as a child." [Huna](https://wehewehe.org/gsdl2.85/cgi-bin/hdict?e=q-11000-00---off-0hdict--00-1----0-10-0---0---0direct-10-ED--4--textpukuielbert%2ctextmamaka-----0-1l--11-en-Zz-1---Zz-1-home-huna--00-4-1-00-0--4----0-0-11-00-0utfZz-8-00&a=d&d=D4932#hero-bottom-banner) is also "to hide, conceal, disguise," "to hide deliberately." 
-
-Plus, I've been living in Hawaii, and anything I can give back to the ohana here is great!
-
-I'll update when I make some progress. Until then, let's build!
+I'm excited for 2025. 
