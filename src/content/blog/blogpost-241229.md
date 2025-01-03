@@ -12,16 +12,13 @@ layout: ../../layouts/BlogPost.astro
 
 ## General
 
-This year generally was focused on less technical books and more books on business. Quick meta note about reading lists like this,
-this. I'm pretty aware that this is just for future me. This is not meant to be a trophy case, but more of a reference for future me to 
-look back and think about what I was thinking about in 2024. 
+This year generally was focused on less technical books and more books on business. Quick meta note about reading lists like this: I'm pretty aware that this is just for future me. This is not meant to be a trophy case, but more of a reference for future me to look back and think about what I was thinking about in 2024. 
 
 ### Non-Fiction
 
 #### Coding
 - The Rust Programming Language, Brown Experimental version [link](https://rust-book.cs.brown.edu/title-page.html)
 - Data Structures and Algorithms Made Easy by Narasimha Karumanchi
-- 
 
 #### Technical
 - An Elegant Puzzle: Systems of Engineering Management by Will Larson
