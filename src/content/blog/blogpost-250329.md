@@ -1,0 +1,29 @@
+---
+title: Building Dude Scouts
+description: The Boy Scouts meets silly goose energy meets coding
+pubDate: 2025-03-29 09:37
+author: Kevin Coyle
+tags:
+  - Life Updates
+  - Full Stack Development
+imgUrl: '../../assets/dude-scouts-logo-light.png'
+layout: ../../layouts/BlogPost.astro
+---
+
+## Meme Driven Development
+
+It started as a meme. There was a tweet that went viral during Covid (none of those words are in the bible). 
+
+It was shared in our college friends group chat ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fmeirl%2Fcomments%2F17ybjpp%2Fmeirl%2F&psig=AOvVaw2mt58RTpOIvJgFluf3AAjO&ust=1743363767147000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDP6KOGsIwDFQAAAAAdAAAAABAE)
+
+Flash forward a few years, we would joke about Guy Scouts and badges. It wasn't anything serious, just "that would be a funny badge" or awarding each other for doing stuff. Nothing serious. We had also joked that it would be neat if there was an online experience where someone could earn badges for completing courses/tasks. 
+
+Then one night I drunkenly bought a few domains. I decided on Dude Scouts because, being from California, dude is both cooler and gender neutral. Plus it probably puts us further away from trademark infringement? Maybe, maybe not.
+
+Anywho, flash foward and I decided that this is the year we take it out of the group chat. Naturally, I txted the group chat: ![groupchat]("../../assets/dude-scouts-group-chat.png). 
+
+Okay and now, almost 4 months after that text exchange, I start to code this thing. I don't really have a vision for it, and I don't really even know what I'm doing from a technical side. This is in pretty stark contrast to other ideas I've had where I came up with a pretty tight plan first and only dabbled in technology that I understand pretty well. 
+
+From a tech side, I'm picturing this being something like a community based LMS where people can create courses that terminate in the learner earning a badge. Basically like Masterclass but more community driven like Udemy, but with better controls on the content. 
+
+I think some of these badges would require person to person (either virtually or IRL), and so there would have to be a way for you to connect with other local dude scouts.
