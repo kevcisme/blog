@@ -1,12 +1,12 @@
 ---
 title: Legends Pools - Masters 2025
 description: Golf stats on a friendly pool
-pubDate: 2025-03-29 09:37
+pubDate: 2025-04-09 03:33
 author: Kevin Coyle
 tags:
-  - Life Updates
+  - Sports Analytics
   - Full Stack Development
-imgUrl: '../../assets/dude-scouts-logo-light.png'
+imgUrl: '../../assets/legends-logo.png'
 layout: ../../layouts/BlogPost.astro
 ---
 
