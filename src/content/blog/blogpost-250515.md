@@ -11,7 +11,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 
 # Using ML to Learn Poker
-My friend made the mistake of asking me about a math / coding problem. ![]('../../assets/can-we-use-ai-poker.png')
+My friend made the mistake of asking me about a math / coding problem. ![](../../assets/can-we-use-ai-poker.png)
 
 The problem is that this hits a sweet spot in a Venn diagram for me of things that involve:
 - code, especially ML, and with high potential for a cool looking UI
