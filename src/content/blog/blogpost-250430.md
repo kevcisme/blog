@@ -1,11 +1,12 @@
 ---
-title: Legends Pools - Masters 2025 pt. 2
-description: Golf stats on a friendly pool
+title: Toduo, the best to-do app ever?
+description: The world needs another to-do app. The world needs a to-do app, but with AI. Have I lost my mind? Those previous two sentences are what I would expect from a crazed tech bro, but I'm better than that, right? Nah. I'm not, let's build. 
 pubDate: 2025-04-30 10:15
 author: Kevin Coyle
 tags:
   - LLMs
   - Full Stack Development
+  - TypeScript
 imgUrl: '../../assets/tuduo.png'
 layout: ../../layouts/BlogPost.astro
 ---
