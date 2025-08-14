@@ -1,7 +1,7 @@
 ---
 title: Get in Loser, we're going Shopping with Dude Scouts
 description: The Boy Scouts meets silly goose energy meets coding
-pubDate: 2025-05-18 5:04
+pubDate: 2025-06-04 9:20
 author: Kevin Coyle
 tags:
   - Adventure
