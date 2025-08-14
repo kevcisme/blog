@@ -7,7 +7,7 @@ tags:
   - React Native
   - Mobile App
   - Full Stack Development
-imgUrl: 'src/assets/sileninja.jpg'
+imgUrl: '../../assets/sileninja.jpg'
 layout: ../../layouts/BlogPost.astro
 ---
 
@@ -25,5 +25,5 @@ Also, I think that people think like me. There might even be a whole population 
 
 I'm not quite sure from a technical side how this would work either. I believe Apple doesn't give you access to lower level processes like mics, right?
 
-Either way, the vibes are right. I made an awesome logo. ![sileninja logo](/src/assets/sileninja.jpg) Let's goooooooo 🚀
+Either way, the vibes are right. I made an awesome logo. ![sileninja logo](../../assets/sileninja.jpg) Let's goooooooo 🚀
 
