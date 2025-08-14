@@ -12,7 +12,7 @@ layout: ../../layouts/BlogPost.astro
 
 # Update on Sileninja Progress
 
-When I [last wrote about Sileninja](./blogpost-250217.md) I was mostly just interested in the concept of a "mic blocking" or "mic jamming" app. I ended up going on several side quests: [here](src/content/blog/blogpost-250329.md), [here](src/content/blog/blogpost-250409.md), [here](src/content/blog/blogpost-250430.md), and [here](src/content/blog/blogpost-250515.md). [Author's note: In the preceding sentence, I almost wrote "_unfortunately_ went on several side quests..." but I have amended this. I have decided to lean into the side quest as a way of life]. 
+When I [last wrote about Sileninja](https://blog.kevincoyle.xyz/blog/blogpost-250217) I was mostly just interested in the concept of a "mic blocking" or "mic jamming" app. I ended up going on several side quests: [here](https://blog.kevincoyle.xyz/blog/blogpost-250329), [here](https://blog.kevincoyle.xyz/blog/blogpost-250409), [here](https://blog.kevincoyle.xyz/blog/blogpost-250430.md), and [here](https://blog.kevincoyle.xyz/blog/blogpost-250515). [Author's note: In the preceding sentence, I almost wrote "_unfortunately_ went on several side quests..." but I have amended this. I have decided to lean into the side quest as a way of life]. 
 
 My initial hypothesis is that I can just turn off or mute the microphone. I'm going to go with this as I figure out if there is a sizable enough market for Sileninja. 
 
