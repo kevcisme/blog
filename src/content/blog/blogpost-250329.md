@@ -30,7 +30,7 @@ Flash forward a few years, we would joke about Guy Scouts and badges. It wasn't 
 
 Then one night I drunkenly bought a few domains. I decided on Dude Scouts because, being from California, dude is both cooler and gender neutral. Plus it probably puts us further away from trademark infringement? Maybe, maybe not.
 
-Anywho, flash foward and I decided that this is the year we take it out of the group chat. Naturally, I txted the group chat: ![groupchat](dude-scouts-group-chat.png)
+Anywho, flash foward and I decided that this is the year we take it out of the group chat. Naturally, I txted the group chat: ![groupchat](../../assets/dude-scouts-group-chat.png)
 
 Okay and now, almost 4 months after that text exchange, I start to code this thing. I don't really have a vision for it, and I don't really even know what I'm doing from a technical side. This is in pretty stark contrast to other ideas I've had where I came up with a pretty tight plan first and only dabbled in technology that I understand pretty well. 
 
