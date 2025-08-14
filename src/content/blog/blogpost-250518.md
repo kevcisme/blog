@@ -36,12 +36,9 @@ async def root():
     tracker.track_struct_event("api", "root")
     return {"message": "Dude Scouts API", "environment": settings.environment}
 ```
-  - Environment docs updated with required Snowplow config:
-    - `ENV_SETUP.md`: `SNOWPLOW_COLLECTOR=http://localhost:9090`
-    - `PRODUCTION_ENV.md`: `SNOWPLOW_COLLECTOR=https://your-snowplow-collector.example.com`
 
 - **Safer, environment-aware configuration**
-  - `backend/app/core/config.py` got formatting cleanups and clarified environment handling for CORS and LocalStack endpoints.
+  - My `config.py` got formatting cleanups and clarified environment handling for CORS and LocalStack endpoints.
   - Keeps dev/prod behaviors cleanly separated (LocalStack in dev, real AWS in prod).
 
 - **Backend endpoints enhanced with analytics signals**
@@ -60,7 +57,7 @@ tracker.track_struct_event("community", "create_post", label=str(row["id"]))
 
 - **Test and dependency alignment**
   - Backend requirements and pyproject updated to include Snowplow and keep test fixtures aligned.
-  - `backend/tests/conftest.py` ensures a sensible default for the collector in test runs.
+  - My conftest ensures a sensible default for the collector in test runs.
 
 ### Why this matters
 
