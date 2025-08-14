@@ -1,5 +1,5 @@
 ---
-title: Let's get Social with Dude Scouts
+title: Time to Plow Snow with Dude Scouts
 description: The Boy Scouts meets silly goose energy meets coding
 pubDate: 2025-05-18 5:04
 author: Kevin Coyle
