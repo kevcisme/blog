@@ -8,13 +8,16 @@ tags:
   - Full Stack Development
   - IaC
   - Terraform
-imgUrl: '../../assets/dude-scouts.png'
+imgUrl: '../../assets/that-oughta-hold.png'
 layout: ../../layouts/BlogPost.astro
 ---
 
 # Devops let's goooo
 
 In June, we merged a small but important UX fix to stabilize the navigation dropdowns. Since then, we focused on hardening our infrastructure, clarifying deployment, and polishing a few aspects of the app. This post summarizes the most meaningful changes from my last post.
+
+Much like this badge... ![](../../assets/that-oughta-hold.png) I think this Terrform stuff is all stuck together well. 
+
 ### Highlights
 
 - **Infrastructure as Code (Terraform)**
