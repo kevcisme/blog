@@ -24,7 +24,7 @@ Related to all of this and my thoughts about how generally I have come to the re
 
 ## Meme Driven Development
 
-It started as a meme. There was a tweet that went viral during Covid (none of those words are in the bible). It was shared in our college friends group chat ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fmeirl%2Fcomments%2F17ybjpp%2Fmeirl%2F&psig=AOvVaw2mt58RTpOIvJgFluf3AAjO&ust=1743363767147000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDP6KOGsIwDFQAAAAAdAAAAABAE)
+It started as a meme. There was a tweet that went viral during Covid (none of those words are in the bible). It was shared in our college friends group chat ![](https://preview.redd.it/j33078z4751c1.jpg?width=1080&crop=smart&auto=webp&s=18fb3d1bc823213652cd131932fc5a02b3500397) 
 
 Flash forward a few years, we would joke about Guy Scouts and badges. It wasn't anything serious, just "that would be a funny badge" or awarding each other for doing stuff. Nothing serious. We had also joked that it would be neat if there was an online experience where someone could earn badges for completing courses/tasks. 
 

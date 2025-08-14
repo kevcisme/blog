@@ -45,7 +45,7 @@ This team's [blog](https://akirchknopf-21436.php.fhstp.cc/blog/) was a treasure 
 
 So that brings me to the approach I'll be taking, which is to try to occupy the mic. 
 
-[!](https://y.yarn.co/31612444-b771-44a4-be1b-96f46fec4bd9_text.gif)
+![](https://y.yarn.co/31612444-b771-44a4-be1b-96f46fec4bd9_text.gif)
 
 [AuDroid: Preventing Attacks on Audio Channels](https://arxiv.org/pdf/1604.00320)'s authors (Petracca et al.) introduced AuDroid, an Android modification that extends the SELinux security monitor to explicitly track audio channel usage. AuDroid can enforce context-dependent policies on when and how apps use the microphone or speaker. For instance, it can prevent a lower-privilege app from accessing the mic if it could create a covert channel with another process. In their evaluation, AuDroid was able to stop several audio-based attacks (like apps trying to misuse the mic or speaker in tandem) while still permitting normal app functionality. To me, I read this like: this paper shows that it’s possible to impose stricter controls on mic usage without unduly breaking app features.
 
