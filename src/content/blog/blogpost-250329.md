@@ -20,7 +20,7 @@ These are big important questions... best left to boring Russian novelists and t
 
 ## Headless Communities
 
-Related to all of this and my thoughts about how generally I have come to the realization that I don't fully understand what's going on (see post on [Sileninja](/src/content/blog/blogpost-250217.md) and screenshot below).... I think it would be cool if this "brand" functioned as headless. I've been interested in this notion of community driven brands [more on headless brands here](https://otherinter.net/research/headless-brands/#:~:text=of%20their%20own.-,Headless%20Brands,-The%20discussion%20so) and [here](https://www.culture3.com/posts/future-or-fad-will-headless-brands-rewrite-the-book-on-branding).
+Related to all of this and my thoughts about how generally I have come to the realization that I don't fully understand what's going on (see post on [Sileninja](https://blog.kevincoyle.xyz/blog/blogpost-250217) and screenshot below).... I think it would be cool if this "brand" functioned as headless. I've been interested in this notion of community driven brands [more on headless brands here](https://otherinter.net/research/headless-brands/#:~:text=of%20their%20own.-,Headless%20Brands,-The%20discussion%20so) and [here](https://www.culture3.com/posts/future-or-fad-will-headless-brands-rewrite-the-book-on-branding).
 
 ## Meme Driven Development
 

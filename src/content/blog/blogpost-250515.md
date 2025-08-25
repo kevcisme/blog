@@ -28,10 +28,10 @@ One of the people I have regular 1:1s with at work is a huge poker fan. He intro
 If you read my [last post]('./blogpost-25-0430.md') then you know that side projects with "no real line of sight of cash" are something I pride myself in finding and working on. I don't know why, I think it's just that I need "a business guy" to help out with every technical thing I want to implement so he can do the business stuff and I can do the tech stuff.
 
 Also, I am fully aware that I have done the thing where I spin out on side projects. For those counting, I have blog posts detailing:
-- [3 mobile apps](./blogpost-241210.md)
-- [A site for office pools](./blogpost-250409.md)
+- [3 mobile apps](https://blog.kevincoyle.xyz/blog/blogpost-241210.md)
+- [A site for office pools](https://blog.kevincoyle.xyz/blog/blogpost-250409.md)
 - [A loose promise to a groupchat that this is the year I build that Dude Scouts site](./blogpost-250329.md)
-- [A to do app to crush all to do apps](./blogpost-250430.md)
+- [A to do app to crush all to do apps](https://blog.kevincoyle.xyz/blog/blogpost-250430.md)
 
 Which is a running tally of 6 unfinished apps (I'm not counting unsolved Jira tickets at work, those are _booooring_).
 
