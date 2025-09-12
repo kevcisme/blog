@@ -20,9 +20,11 @@ So where to start? The history of this model is instructive towards the types of
 
 ## Population Growth
 
-Logistic Regression owes most of its raison de etre to population growth. If we start at Thomas Robert Malthus's "if nothing checks it, population grows multiplicately" (i.e. there's a geometric progression) is a solid start of the whole story. 
+Logistic Regression owes most of its raison de etre to population growth. We can start at Thomas Robert Malthus's "if nothing checks it, population grows multiplicately" (i.e. there's a geometric progression) is a solid start of the whole story. Malthus was controversial at the time and in today's climate, he's likely to not have many supporters. He was using his oberservations on population growth to support some pretty reprehensible views about the poor. 
 
- when Adolphe Quetelet published _A Treatise on Man and the Development of his Faculties_. In it, Quetelet has some core ideas that we might remember from the last blog post ([Linear Regression from Scratch](https://blog.kevincoyle.xyz/blog/blogpost-191028)):
+His views are published and Adolphe Quetelet seems pretty intent on refuting these claims. I'm unclear if Quetelet was on his quest because of math or because of the sociological/political (or neither), but it does seem to me that Malthus was a motivating factor for Quetelet's _A Treatise on Man and the Development of his Faculties_. 
+
+So when Adolphe Quetelet published _A Treatise on Man and the Development of his Faculties_. In it, Quetelet has some core ideas that we might remember from the last blog post ([Linear Regression from Scratch](https://blog.kevincoyle.xyz/blog/blogpost-191028)):
 1. The "Average Man." In any population, many measurements cluster around a central value. Quetelet treats the mean as a type
 2. Populations could not grow geometrically over a long period of time
 
