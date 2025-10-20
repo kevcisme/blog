@@ -35,3 +35,25 @@ There 50+ elective classes and it is up to the learner to determine which ones a
 ![](../../assets/udacity-elective-courses.png)
 *Here's a small sample of the potential elective courses* 
 
+I'm not entirely sure how to curate which courses I should take, but here's my methodology. In order to get the masters, you have to take at least 750 hours of electives. 
+
+![](../../assets/electives-requirements.png)
+
+
+I like things in spreadsheets, but unfortunately for me, Udacity only offers this as a web page (and to further disrupt, puts that webpage behind a login, so I'd have to write some sort of Selenium script if I wanted to beautiful soup it). However, being the clever devil I am, I copied the source HTML and then just let Claude parse it into a CSV. A little more ape-y, but it works. 
+
+![](../../assets/elective-courses-as-spreadsheet.png)
+
+Now that I've got the courses into this format, I can get a better grasp on what to take. The average course length is 55 hours, but if I remove the three outliers (AI Strategy) which are an hour each, I get an average of 58 hours. I suppose the two things to trade off on here are depth of skillset (like a T shaped or I shaped skill person), and number of hours it takes to finish the degree. I also imagine that I should be trading off between "can I learn this skillset faster outside of this program?" For example, the course on Back-End Development with Python may have less net new content for me, since I am already pretty well versed in a few Python back-end frameworks.
+
+I never have really had a great answer to T-Shape, breadth, vs. I-Shape, depth. I assume that more depth in a particular topic makes me more valuable, but the current offering of courses doesn't go _too_ deep on any one particular subject. I'll bracket any concerns on breadth vs. depth for the moment. I think my best bet is to put these onto a matrix of "impact" vs. "effort" like an Eisenhower Matrix. As a lifelong learner too, I suppose I'd probably explore almost all of these topics, given an infinite time horizon and budget. The question is more _"which courses to take, right now, today"_ and the answer can be more topical. For example, I need to get my interviewing game back up to snuff... maybe the "Data Structures and Algorithms" fits that need best. This committment to lifelong learning (even beyond the fulfillment of graduation requirements and this course) intuitively feels the most correct.
+
+Looking through the courses, I made a "wishlist" of all of the things I wanted to know. I'm going to try to allocate around 15 hours a week to this (which puts me at 3ish hours every day during the work week). This would mean that I could finish the elective requirements in 50 weeks. There's 391 hours across the 7 courses in the Required portion of the masters, which is another 26 weeks. Given vacations, family obligations and all that, I might need to bump total hours a week up to 20 (maybe squeeze 5 in here and there on weekends or days where I feel extra spicy). I could alternatively just resign to finishing this program in 2 years. As of this writing, it's October 2025, which means I'd be finished with my Masters before the little one graduates college (not that I'm competing with her, but going back to the previous post, I think finishing before her provides that encouragement on her own journey). If I _do_ commit to 20 hours a week, that puts me at 57 weeks 😮‍💨. Or maybe I get really lucky and one of these consumer apps takes off so much that I have ["muse"](https://tim.blog/2013/10/28/business-mentorship-and-muses/) and could dedicate more time to studies. 
+
+While we're talking about consumer apps and muses and all that, I'd like to side track and just wonder aloud if this program might have a self-reinforcing loop towards my end goals as an entrepreneur. Some of the courses that focus on making me a better full stack developer, or maybe that work on AI for Trading or Deep Reinforcement Learning might prove to have a really beneficial curriculum for my pocketbook? Would be nice! 
+
+So what to next, if these are the pieces of the game and they are laid out? I think I'm going to start with the Data Structures and Algorithms course, then head back to the drawing board!
+
+![](../../assets/kev-drawing-board.png)
+
+Interesting enough, even though this is the highest level of education I've ever attempted (which you think would lend itself to me putting the most brain power into every aspect), I'm basically putting the least amount of scheming into this, compared to other endeavors I've been in. 
