@@ -12,6 +12,8 @@ layout: ../../layouts/BlogPost.astro
 
 # And in October of '25 he said, let's get a Masters 
 
+In this post, I'm both declaring that this Masters program is one I want to pursue, and deliberating on which courses I should be taking. There's a bit of pontification on how this puzzle pieces into my overall life plan, but I mostly skimp on deep thoughts in favor of action.
+
 ### How does this fit into my grand plans?
 
 ![](../../assets/kev-sketching-plans.png)
