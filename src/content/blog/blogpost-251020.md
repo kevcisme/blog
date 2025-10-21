@@ -17,12 +17,14 @@ I started my first class! If you read my [previous post](https://blog.kevincoyle
 
 I'm excited to be taking:
 
-### Data Structures and Algorithms
+## Data Structures and Algorithms
 
 It's no secret that the tech industry has been ravaged by layoffs. I consider myself incredibly fortunate to have skated past all of that unscathed. Nevertheless, I have gotten flabby in the midsection when it comes to interview skills. 
 That, and the fact that DS & A are probably one of the most fundamental building blocks have led me to start this journey out with taking this course.
 
 ![](../../assets/data-structures-algos.png)
+
+### What's in DS & A?
 
 This course seems to cover the main elements:
 - list based collections like arrays, linked lists, and stacks
@@ -32,6 +34,14 @@ This course seems to cover the main elements:
 - graphs like graph traversal, DFS/BFS, and adjacency matrices
 - algorithms like Dijkstra's, knapsack, and dynamic programming 
 
+### A Portugee codes a stack...
+In Hawaii, we have a strong Portugeese influence. Malasada donuts, ukuleles, and Bernard Carvalho are all Portugeese and Hawaiian. I was a little shocked to see that the "congrats you passed the coding quiz" is also influenced by our Portugee amigos!
+
+![](../../assets/portugee-passing.png)
+
+Cheeeeehoooo.
+
+## Topical!
 I had already begun my re-entry into a lot of these concepts with a Udemy course. This is like a two birds with one stone - I'm going over the material and it counts towards the masters!
 
 Here goes nothing!
