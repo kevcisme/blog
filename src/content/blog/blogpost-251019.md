@@ -14,6 +14,12 @@ layout: ../../layouts/BlogPost.astro
 
 In this post, I'm both declaring that this Masters program is one I want to pursue, and deliberating on which courses I should be taking. There's a bit of pontification on how this puzzle pieces into my overall life plan, but I mostly skimp on deep thoughts in favor of action.
 
+If you read my [last post wherein I questioned if an MS in AI was a good idea](https://blog.kevincoyle.xyz/blog/blogpost-251018/) you know that I had more than a few considerations on whether it was a solid move to go get my Masters of Science in AI. Age, career trajectory, transactional payoff of this (or lack thereof), and overall motivations were discussed. 
+
+That was yesterday, and this is today. I'm signed up. I'm ready. Let's do this!
+
+No wait, let's think a little more about this. We're signed up, but which classes should I take? How do those help on my journey here?
+
 ### How does this fit into my grand plans?
 
 ![](../../assets/kev-sketching-plans.png)

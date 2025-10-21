@@ -1,6 +1,6 @@
 ---
-title: Logistic Regression from Scratch (pt. 1)
-pubDate: 10/29/2019 9:03
+title: Logistic Regression from Scratch (pt. 2)
+pubDate: 10/30/2019 12:12
 author: "Kevin Coyle"
 tags:
   - Machine Learning
