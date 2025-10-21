@@ -42,6 +42,6 @@ In Hawaii, we have a strong Portugeese influence. Malasada donuts, ukuleles, and
 Cheeeeehoooo.
 
 ## Topical!
-I had already begun my re-entry into a lot of these concepts with a Udemy course. This is like a two birds with one stone - I'm going over the material and it counts towards the masters!
+SOO what does this all add up to? Well, I had already begun my re-entry into a lot of these concepts with a Udemy course. This is like a two birds with one stone - I'm going over the material and it counts towards the masters! This Data Structures and Algorithms made a ton of sense to take as my first course. 
 
 Here goes nothing!
