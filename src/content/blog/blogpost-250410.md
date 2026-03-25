@@ -7,7 +7,6 @@ tags:
   - Sports Analytics
   - Full Stack Development
 imgUrl: '../../assets/legends-logo.png'
-layout: ../../layouts/BlogPost.astro
 ---
 
 # Picks are in

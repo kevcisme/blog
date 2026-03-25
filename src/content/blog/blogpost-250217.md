@@ -8,7 +8,6 @@ tags:
   - Mobile App
   - Full Stack Development
 imgUrl: '../../assets/sileninja.jpg'
-layout: ../../layouts/BlogPost.astro
 ---
 
 # Building an App based on vibes

@@ -10,7 +10,6 @@ tags:
   - Data Field
 imgUrl: '../../assets/mlscratch.webp'
 description: Prologue to a series of posts on machine learning from scratch. In here, I'll discuss the pedagogical approach I'm taking to teaching machine learning. This is meant to be a series that would be useful for someone who has a basic understanding of machine learning and wants to learn more about the inner workings of the models.
-layout: '../../layouts/BlogPost.astro'
 ---
 
 One of my favorite things about teaching is that I get to work with a group of people who are all at different levels of their learning journey. Because the field is still so young, this means that most of the courses I teach are at a fairly basic level from either a software engineering or from a mathy/data science perspective.

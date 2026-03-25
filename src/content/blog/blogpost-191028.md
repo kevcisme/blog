@@ -8,7 +8,6 @@ tags:
   - Linear Regression
 imgUrl: '../../assets/linreg.jpeg'
 description: First post in a series of posts on machine learning from scratch. We're starting with linear regression. In this post, we'll build a simple linear regression model and discuss a simple metric commonly used to evaluate model performance.
-layout: '../../layouts/BlogPost.astro'
 ---
 
 If you're diligently following along, you may have seen that I'm doing a series on machine learning models from scratch.

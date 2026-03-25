@@ -7,7 +7,6 @@ tags:
   - Meta Blog Post
 imgUrl: '../../assets/shrempin.webp'
 description: I built this blog. Hello world.
-layout: '../../layouts/BlogPost.astro'
 ---
 
 ## A New Beginning

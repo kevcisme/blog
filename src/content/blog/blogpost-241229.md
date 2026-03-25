@@ -7,7 +7,6 @@ tags:
   - Life Updates
   - Books
 imgUrl: '../../assets/books2024.webp'
-layout: ../../layouts/BlogPost.astro
 ---
 
 ## General

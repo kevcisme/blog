@@ -9,7 +9,6 @@ tags:
   - Full Stack Development
   - AI
 imgUrl: '../../assets/palehunalogo.jpeg'
-layout: ../../layouts/BlogPost.astro
 ---
 
 # Building a Mobile App for Parents to Opt Out of AI Training Data

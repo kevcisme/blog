@@ -7,7 +7,6 @@ tags:
   - Adventure
   - Full Stack Development
 imgUrl: '../../assets/dude-scouts.png'
-layout: ../../layouts/BlogPost.astro
 ---
 
 # How about more features?

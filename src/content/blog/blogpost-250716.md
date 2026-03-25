@@ -9,7 +9,6 @@ tags:
   - IaC
   - Terraform
 imgUrl: '../../assets/dude-scouts.png'
-layout: ../../layouts/BlogPost.astro
 ---
 
 # Devops let's goooo

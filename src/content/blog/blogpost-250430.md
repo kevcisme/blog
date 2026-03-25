@@ -8,7 +8,6 @@ tags:
   - Full Stack Development
   - TypeScript
 imgUrl: '../../assets/tuduo.png'
-layout: ../../layouts/BlogPost.astro
 ---
 
 # Ah fuck here we go again

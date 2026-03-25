@@ -9,7 +9,6 @@ tags:
   - Logistic Regression
 imgUrl: '../../assets/logistic-curve.png'
 description: Classification's workhorse
-layout: '../../layouts/BlogPost.astro'
 ---
 
 # Writing and Building Logistic Regression from Scratch

@@ -7,7 +7,6 @@ tags:
   - Life Updates
   - Full Stack Development
 imgUrl: '../../assets/dude-scouts-logo-light.png'
-layout: ../../layouts/BlogPost.astro
 ---
 
 # Let's build something cool

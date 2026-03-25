@@ -7,7 +7,6 @@ tags:
   - Sports Analytics
   - ML
 imgUrl: '../../assets/can-we-use-ai-poker.png'
-layout: ../../layouts/BlogPost.astro
 ---
 
 # Using ML to Learn Poker

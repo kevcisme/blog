@@ -9,7 +9,6 @@ tags:
   - IaC
   - Terraform
 imgUrl: '../../assets/that-oughta-hold.png'
-layout: ../../layouts/BlogPost.astro
 ---
 
 # Devops let's goooo

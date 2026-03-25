@@ -11,7 +11,6 @@ tags:
   - Football
 description: Fantasy Football is a place where there's got to be lots of analytics to be done. Surprinsingly, there's not much out there in the academic literature, nor are there any good products out there. I'm going to build some models to help me win.
 imgUrl: '../../assets/fantasyfootball1.webp'
-layout: "../../layouts/BlogPost.astro"
 ---
 
 ## Must win... can anything help?

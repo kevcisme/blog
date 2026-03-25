@@ -7,7 +7,6 @@ tags:
   - Adventure
   - Life Update
 imgUrl: '../../assets/kev-waiting-for-bus-cover.png'
-layout: ../../layouts/BlogPost.astro
 ---
 
 # And in October of '25 he said, let's get a Masters 

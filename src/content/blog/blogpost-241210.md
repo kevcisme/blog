@@ -9,7 +9,6 @@ tags:
   - Full Stack Development
   - AI
 imgUrl: '../../assets/yearofbuild2024.webp'
-layout: ../../layouts/BlogPost.astro
 ---
 
 ## The Year of Build

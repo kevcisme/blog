@@ -7,7 +7,6 @@ tags:
   - Full Stack Dev
   - ML
 imgUrl: '../../assets/sileninja.jpg'
-layout: ../../layouts/BlogPost.astro
 ---
 
 # Update on Sileninja Progress
